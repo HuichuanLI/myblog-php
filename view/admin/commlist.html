@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+<link rel="stylesheet" href="./css/reset.css">
+<link rel="stylesheet" href="./css/adm.css">
+</head>
+<body>
+    <header>
+        <h1>Blog backend</h1>
+    </header>
+    <div id="main">
+        <div id="lside">
+          <aside>
+              <h4>Column management </h4>
+              <ul>
+                  <li><a href="catlist.php">Column List</a></li>
+                  <li><a href="catadd.php">Add column</a></li>
+              </ul>
+          </aside>
+          <aside>
+              <h4>Article management</h4>
+              <ul>
+                  <li><a href="artlist.php">List of articles</a></li>
+                  <li><a href="artadd.php">Publish articles</a></li>
+              </ul>
+          </aside>
+          <aside>
+              <h4>Comments management</h4>
+              <ul>
+                  <li><a href="commlist.php">commlist</a></li>
+              </ul>
+          </aside>
+          <aside>
+              <h4>Personal Center</h4>
+              <ul>
+                  <li><a href="">Modify the password</a></li>
+                  <li><a href="logout.php">Log out</a></li>
+              </ul>
+          </aside>
+        </div>
+        <div id="rside">
+            <table>
+                <tr>
+                    <td>Serial number</td>
+                    <td>Date</td>
+                    <td>name</td>
+                    <td>email</td>
+                    <td>content</td>
+                    <td>IP</td>
+                    <td>operation</td>
+                </tr>
+                <?php foreach($comms as $a) {?>
+                <tr>
+                   <td><?php echo $a['comment_id'];?></td>
+                   <td><?php echo date('Y/m/d', $a['pubtime']);?></td>
+                   <td><a href="#"><?php echo $a['nick'];?></a></td>
+                   <td><?php echo $a['email'];?></td>
+                   <td><span class="badge"><?php echo $a['content'];?></span></td>
+                   <td><?php echo long2ip($a['ip'])?></td>
+                   <td>
+                       <a href="commdel.php?comment_id=<?php echo $a['comment_id'];?>">delete</a>
+                   </td>
+                </tr>
+                <?php }?>
+            </table>
+            <div id="pagebar">
+                Pages:&nbsp;
+                <a href="#">1</a>
+                <a href="#">2</a>
+                <a href="#">3</a>
+                4
+                <a href="#">5</a>
+                <a href="#">6</a>
+            </div>
+        </div>
+    </div>
+    <footer>
+        Copyright &copy; 2017 · GeneratePress · WordPress
+    </footer>
+</body>
+</html>

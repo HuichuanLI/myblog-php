@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+<link rel="stylesheet" href="./css/reset.css">
+<link rel="stylesheet" href="./css/adm.css">
+</head>
+<body>
+    <header>
+        <h1>Blog backend</h1>
+    </header>
+    <div id="main">
+        <div id="lside">
+          <aside>
+              <h4>Column management </h4>
+              <ul>
+                  <li><a href="catlist.php">Column List</a></li>
+                  <li><a href="catadd.php">Add column</a></li>
+              </ul>
+          </aside>
+          <aside>
+              <h4>Article management</h4>
+              <ul>
+                  <li><a href="artlist.php">List of articles</a></li>
+                  <li><a href="artadd.php">Publish articles</a></li>
+              </ul>
+          </aside>
+          <aside>
+              <h4>Comments management</h4>
+              <ul>
+                  <li><a href="commlist.php">commlist</a></li>
+              </ul>
+          </aside>
+          <aside>
+              <h4>Personal Center</h4>
+              <ul>
+                  <li><a href="">Modify the password</a></li>
+                  <li><a href="logout.php">Log out</a></li>
+              </ul>
+          </aside>
+        </div>
+        <div id="rside">
+            <table>
+                <tr>
+                    <td>id</td>
+                    <td>name</td>
+                    <td>xxx</td>
+                    <td>operation</td>
+                </tr>
+                <?php foreach($cat as $c){?>
+                <tr>
+                    <td><?php echo $c['cat_id'];?></td>
+                    <td><?php echo $c['catname'];?></td>
+                    <td><span class="badge"><?php echo $c['num'];?></span></td>
+                    <td><a href="catdel.php?cat_id=<?php echo $c['cat_id'];?>">delete</a>
+                    <a href="catedit.php?cat_id=<?php echo $c['cat_id'];?>">edit</a></td>
+                </tr>
+              <?php }?>
+            </table>
+        </div>
+    </div>
+    <footer>
+        Copyright &copy; 2017 · GeneratePress · WordPress
+    </footer>
+</body>
+</html>

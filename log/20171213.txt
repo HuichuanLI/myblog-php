@@ -1,0 +1,2249 @@
+-----------------------------------------
+2017/12/13 14:36:11
+insert into cat (catname) values ('1')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:46:02
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:47:35
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:49:44
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:50:34
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:50:37
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:50:45
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:50:45
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:50:47
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:52:10
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:53:20
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:54:01
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:54:19
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:54:19
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:54:32
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:54:35
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:56:47
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:56:48
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:57:43
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:57:43
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:20
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:44
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:45
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:45
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:45
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:45
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:46
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:46
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:46
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 14:58:46
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:00:10
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:00:10
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:00:10
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:00:10
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:06:52
+select * form cat
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'form cat' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:07:33
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:07:51
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:13:36
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:13:46
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:14:22
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:14:24
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:14:25
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:14:27
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:14:28
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:14:30
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:14:41
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:15:34
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:15:39
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:15:39
+insert into art (title,cat_id,content) values ('1','1','2')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:16:05
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:16:06
+insert into art (title,cat_id,content) values ('1','1','2')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:16:08
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:16:09
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:16:09
+insert into art (title,cat_id,content) values ('1','1','2')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:16:11
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:18:28
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:18:32
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:18:32
+insert into art (title,cat_id,content,pubtime) values ('1','1','2','1513178312')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:18:46
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:18:46
+insert into art (title,cat_id,content,pubtime) values ('1','1','2','1513178326')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:19:19
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:19:19
+insert into art (title,cat_id,content,pubtime) values ('1','1','2','1513178359')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:19:32
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:19:32
+insert into art (title,cat_id,content,pubtime) values ('1','1','2','1513178372')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:19:37
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:19:37
+insert into art (title,cat_id,content,pubtime) values ('1','1','2','1513178377')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:20:23
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:20:38
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:20:38
+insert into art (title,cat_id,content,pubtime) values ('1','1','2','1513178438')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:21:48
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:21:48
+insert into art (title,cat_id,content,pubtime) values ('1','1','2','1513178508')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:27:03
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:27:05
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:31:14
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:31:34
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:31:57
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:32:07
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:32:08
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:32:13
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:32:16
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:32:42
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:32:47
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:34:07
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:37:40
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:37:41
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:38:13
+select * from art where art_id=111
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:38:17
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:40:52
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:40:58
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:40:59
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:00
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:01
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:09
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:10
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:11
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:11
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:11
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:55
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:55
+sql
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sql' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:58
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:58
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:58
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:59
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:41:59
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:00
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:00
+sql
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sql' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:01
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:01
+sql
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sql' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:04
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:05
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:05
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:05
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:05
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:05
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:06
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:06
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:06
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:06
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:07
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:42:19
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:43:50
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:43:53
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:43:53
+sql
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sql' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:06
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:06
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:07
+select * from art where art_id=12
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:07
+sql
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sql' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:38
+select * from art where art_id=12
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:38
+delete from art where art_id=12
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:38
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:41
+select * from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:41
+delete from art where art_id=1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:41
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:44:42
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:46:22
+insert into cat (catname) values ('1')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:46:46
+insert into cat (catname) values ('2')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:47:10
+insert into cat (catname) values ('1')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:48:51
+insert into cat (catname) values ('1')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:49:10
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:49:26
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:49:29
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:49:29
+insert into art (title,cat_id,content,pubtime) values ('1','1','213','1513180169')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:26
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:26
+insert into art (title,cat_id,content,pubtime) values ('1','1','213','1513180226')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:26
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:27
+select * from art where art_id=14
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:27
+delete from art where art_id=14
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:27
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:31
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:32
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:50:33
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:51:08
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:52:13
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:52:14
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:52:40
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:52:42
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:52:43
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:52:45
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:53:21
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:53:22
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:53:23
+select * from art where art_id=13
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:53:23
+delete from art where art_id=13
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:53:23
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:58:24
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:58:26
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:58:26
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:58:28
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:58:28
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:58:31
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 15:58:32
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:04:23
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:04:24
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:04:28
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:04:28
+insert into art (title,cat_id,content,pubtime) values ('1','2','21','1513181068')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:04:28
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:05:44
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:05:44
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:05:57
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:05:57
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:22
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:22
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:22
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:22
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:23
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:23
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:43
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:43
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:46
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:07:46
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:08:55
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:08:55
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:09:04
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:09:04
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:10:24
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:10:24
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:14
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:19
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:19
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:29
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:31
+select * from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:31
+delete from art where art_id=15
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:31
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:40
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:43
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:43
+insert into art (title,cat_id,content,pubtime) values ('1','1','12','1513181503')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:43
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:44
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:11:44
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:12:52
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:12:52
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:12:53
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:12:53
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:12:56
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:12:57
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:12:57
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:13:38
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:13:39
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:13:41
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:13:41
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:14:01
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:14:01
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:14:09
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:14:10
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:14:23
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:14:23
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:52
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:52
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:52
+select * from where art_id=16
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where art_id=16' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:55
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:55
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:55
+select * from where art_id=16
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where art_id=16' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:58
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:58
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:17:58
+select * from where art_id=16
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where art_id=16' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:18:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:18:04
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:18:04
+select * from where art_id=16
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where art_id=16' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:17
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:18
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:18
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:18
+select * from where art_id=16
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where art_id=16' at line 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:42
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:42
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:42
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:51
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:51
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:19:51
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:20:27
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:20:27
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:20:27
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:21:56
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:21:56
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:21:56
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:11
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:11
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:11
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:33
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:33
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:33
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:52
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:52
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:22:52
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:24:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:24:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:24:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:24:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:24:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:24:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:25:32
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:25:32
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:25:32
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:31:38
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:31:38
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:31:38
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:12
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:12
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:12
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:12
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:12
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:12
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:14
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:15
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:37
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:37
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:32:37
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:03
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:24
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:24
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:24
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:24
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:24
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:33:24
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:34:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:34:04
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:34:04
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:35:46
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:35:46
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:35:46
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:35:48
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:35:49
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:35:49
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:35:49
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:36:57
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:36:57
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:36:57
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:36:58
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:36:58
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:36:58
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:37:57
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:37:57
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:37:57
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:38:25
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:38:25
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:38:25
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:38:31
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:38:31
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:38:31
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:22
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:22
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:22
+select title,content,cat_id from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:25
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:25
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:25
+select title,content,cat_id from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:27
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:27
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:27
+update art set title='1',cat_id='1',content='sdsaddakjkdkdsajashdkj',lastup='1513183227' where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:27
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:31
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:34
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:34
+insert into art (title,cat_id,content,pubtime) values ('dsa','2','das','1513183234')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:34
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:35
+select * from art where art_id=17
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:35
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:35
+select title,content,cat_id from art where art_id=17
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:38
+select * from art where art_id=17
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:38
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:38
+update art set title='dsa',cat_id='1',content='dasdsa',lastup='1513183238' where art_id=17
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:38
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:40
+select * from art where art_id=17
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:40
+delete from art where art_id=17
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:40
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:41
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:41
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:41
+select title,content,cat_id from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:42
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:42
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:42
+update art set title='1',cat_id='1',content='sdsaddakjkdkdsajashdkjdsa',lastup='1513183242' where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:40:42
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:43:11
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:43:11
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:43:11
+select title,content,cat_id from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:14
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:19
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:19
+insert into art (title,cat_id,content,pubtime) values ('1','1','123','1513183519')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:19
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:20
+select * from art where art_id=18
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:20
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:20
+select title,content,cat_id from art where art_id=18
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:23
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:24
+select * from art where art_id=18
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:24
+delete from art where art_id=18
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:24
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:25
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:25
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:25
+select title,content,cat_id from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:26
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:26
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:26
+update art set title='1',cat_id='1',content='sdsaddakjkdkdsajashdkjdsa',lastup='1513183526' where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:26
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:28
+select * from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:28
+delete from art where art_id=16
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 16:45:28
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:10
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:12
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:15
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:15
+insert into art (title,cat_id,content,pubtime) values ('dsadas','1','dsadasdsa','1513185555')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:15
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:17
+select * from art where art_id=19
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:18
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:18
+select title,content,cat_id from art where art_id=19
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:19
+select * from art where art_id=19
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:19
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:19
+update art set title='dsadas',cat_id='1',content='dsadasdsadsa',lastup='1513185559' where art_id=19
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:20
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:21
+select * from art where art_id=19
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:21
+delete from art where art_id=19
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 17:19:21
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 18:04:50
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 18:04:54
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 18:04:55
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 18:04:55
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 20:50:18
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 20:50:20
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 20:50:25
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 20:50:25
+insert into art (title,cat_id,content,pubtime) values ('dsadsasda','2','dsa','1513198225')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 20:50:25
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 20:50:52
+insert into cat (catname) values ('life')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/13 21:56:57
+select * from cat
+-----------------------------------------
+

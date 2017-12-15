@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+<link rel="stylesheet" href="./css/reset.css">
+<link rel="stylesheet" href="./css/adm.css">
+</head>
+<body>
+    <header>
+        <h1>Blog backend</h1>
+    </header>
+    <div id="main">
+        <div id="lside">
+          <aside>
+              <h4>Column management </h4>
+              <ul>
+                  <li><a href="catlist.php">Column List</a></li>
+                  <li><a href="catadd.php">Add column</a></li>
+              </ul>
+          </aside>
+          <aside>
+              <h4>Article management</h4>
+              <ul>
+                  <li><a href="artlist.php">List of articles</a></li>
+                  <li><a href="artadd.php">Publish articles</a></li>
+              </ul>
+          </aside>
+          <aside>
+              <h4>Personal Center</h4>
+              <ul>
+                  <li><a href="">Modify the password</a></li>
+                  <li><a href="">Log out</a></li>
+              </ul>
+          </aside>
+        </div>
+        <div id="rside">
+            <?php if($result == 'succ') {?>
+            <div class="succ"><?php echo $res;?></div><?php } else if($result == 'fail') {?>
+            <div class="danger"><?php echo $res;?></div><?php }?>
+        </div>
+    </div>
+    <footer>
+        Copyright &copy; 2017 · GeneratePress · WordPress
+    </footer>
+</body>
+</html>

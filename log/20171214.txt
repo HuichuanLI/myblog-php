@@ -1,0 +1,2044 @@
+-----------------------------------------
+2017/12/14 18:04:23
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:27
+select * from art where art_id=20
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:27
+delete from art where art_id=20
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:27
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:30
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:43
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:43
+insert into art (title,cat_id,content,pubtime) values ('ghjgjh','24','富国天一方面很广泛','1513274683')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:43
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:48
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:48
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:48
+select title,content,cat_id from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:56
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:56
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:56
+update art set title='ghjgjh',cat_id='3',content='富国天一方面很广泛nbnbl',lastup='1513274696' where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:56
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:04:59
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:49:26
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 18:54:20
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:02:18
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:02:18
+select title,content,pubtime,commn,catname from art innert join cat on art.cat_id=cat_id
+Unknown column 'commn' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:03:29
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:03:29
+select title,content,pubtime,commn,catname from art innert join cat on art.cat_id=cat_id
+Unknown column 'commn' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:04:06
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:04:06
+select title,content,pubtime,commn,catname from art innert join cat on art.cat_id=cat_id
+Unknown column 'commn' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:05:00
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:05:00
+select title,content,pubtime,commn,catname from art innert join cat on art.cat_id=cat_id
+Unknown column 'commn' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:05:12
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:05:12
+select title,content,pubtime,commn,catname from art innert join cat on art.cat_id=cat_id
+Unknown column 'commn' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:05:15
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:05:15
+select title,content,pubtime,commn,catname from art innert join cat on art.cat_id=cat_id
+Unknown column 'commn' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:05:22
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:05:22
+select title,content,pubtime,commn,catname from art innert join cat on art.cat_id=cat_id
+Unknown column 'commn' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:20
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:20
+select title,content,pubtime,comm,catname from art innert join cat on art.cat_id=cat.cat_id
+Unknown column 'art.cat_id' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:20
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:20
+select title,content,pubtime,comm,catname from art innert join cat on art.cat_id=cat.cat_id
+Unknown column 'art.cat_id' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:20
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:20
+select title,content,pubtime,comm,catname from art innert join cat on art.cat_id=cat.cat_id
+Unknown column 'art.cat_id' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:20
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:20
+select title,content,pubtime,comm,catname from art innert join cat on art.cat_id=cat.cat_id
+Unknown column 'art.cat_id' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:22
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:06:22
+select title,content,pubtime,comm,catname from art innert join cat on art.cat_id=cat.cat_id
+Unknown column 'art.cat_id' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:07:44
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:07:44
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:24
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:24
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:24
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:24
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:25
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:26
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:26
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:26
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:26
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:26
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:26
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:26
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:26
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:27
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:27
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:27
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:10:27
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_i
+Unknown column 'cat.cat_i' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:11:11
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:11:11
+select title,content,pubtime,comm,catname from art innert join cat on art.cat_id=cat.cat_i
+Unknown column 'art.cat_id' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:11:12
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:11:12
+select title,content,pubtime,comm,catname from art innert join cat on art.cat_id=cat.cat_i
+Unknown column 'art.cat_id' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:11:12
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:11:12
+select title,content,pubtime,comm,catname from art innert join cat on art.cat_id=cat.cat_i
+Unknown column 'art.cat_id' in 'on clause'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:12:02
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:12:02
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:12:11
+select catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:12:11
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:17:13
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:17:13
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:17:14
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:17:14
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:17:16
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:17:16
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:17:16
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:17:16
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:26:57
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:26:57
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=3
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:26:59
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:26:59
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=24
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:27:00
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:27:00
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=2
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:27:01
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:27:01
+select title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=3
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:29:44
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:29:44
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=3
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:33:24
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:33:24
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=4
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:33:34
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:33:38
+select * from art where art_id=22
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:33:38
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:33:38
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:37:03
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:38:22
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:38:22
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:38:23
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:38:23
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:41:06
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:41:06
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:41:17
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:41:17
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:41:51
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:41:51
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:04
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:04
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:22
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:22
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:23
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:23
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:26
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:26
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=24
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:28
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:28
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=2
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:28
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:28
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=3
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:30
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:30
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:48
+select * from art where art_id=25
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:48
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=25
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:48
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:48
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:55
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:55
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:59
+select * from art where art_id=25
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:59
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=25
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:59
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:42:59
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:07
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:07
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:50
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:50
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:50
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:50
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:51
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:51
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:51
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:43:51
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:53:04
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:53:04
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:53:04
+insert into comment (usename,email,content,pubtime) values ('','lhc14124908@163.com','','1513281184')
+Unknown column 'usename' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:53:33
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:53:33
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:53:33
+insert into comment (usename,email,content,pubtime) values ('d','huichuan.li@etu.utc.fr','xzcs','1513281213')
+Unknown column 'usename' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:54:52
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:54:52
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:54:52
+insert into comment (nick ,email,content,pubtime) values ('d','huichuan.li@etu.utc.fr','xzcs','1513281292')
+Field 'art_id' doesn't have a default value
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:54:57
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:54:57
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:54:57
+insert into comment (nick ,email,content,pubtime) values ('da','huichuan.li@etu.utc.fr','dsa','1513281297')
+Field 'art_id' doesn't have a default value
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:55:57
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:55:57
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:55:57
+insert into comment (nick ,email,content,pubtime) values ('d','dsa','dsa','1513281357')
+Field 'art_id' doesn't have a default value
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:58:57
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:58:57
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:59:30
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:59:30
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 19:59:30
+insert into comment (nick ,email,content,pubtime) values ('da','huichuan.li@etu.utc.fr','dsa','1513281570')
+Field 'art_id' doesn't have a default value
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:02:16
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:02:16
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:02:30
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:02:30
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:02:30
+insert into comment (nick,email,content,pubtime,art_id) values ('da','huichuan.li@etu.utc.fr','dsa','1513281750','21')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:02:30
+update art set comm=comm+1 where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:02:30
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:02:30
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:12
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:12
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:12
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:31
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:31
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:31
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:42
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:42
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:09:42
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:10:08
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:10:08
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:10:08
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:10:08
+insert into comment (nick,email,content,pubtime,art_id) values ('huichuan','lhc14124908@163.com','je suis tres frot','1513282208','21')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:10:08
+update art set comm=comm+1 where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:10:08
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:10:08
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:10:08
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:13:48
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:13:48
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:13:48
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:14:51
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:14:51
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:14:51
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:14:52
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:14:52
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:14:52
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:15:27
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:23:17
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:23:40
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:23:40
+insert into art (title,cat_id,content,pubtime) values ('my information','24','njfskda','1513283020')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:23:40
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:23:46
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:23:46
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:26:11
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:26:11
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:26:13
+select * from art where art_id=22
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:26:13
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=22
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:26:13
+select * from comment where art_id=22
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:27:06
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:27:10
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:27:10
+insert into art (title,cat_id,content,pubtime) values ('sa','24','das','1513283230')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:27:10
+insert into art (title,cat_id,content,pubtime,tag) values ('sa','24','das','1513283230','')
+Unknown column 'tag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:28:35
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:28:35
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283315','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:28:38
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:28:38
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283318','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:30:48
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:30:48
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283448','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:30:51
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:30:51
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283451','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:32:04
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:32:04
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283524','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:32:56
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:32:56
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283576','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:32:58
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:32:58
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283578','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:33:40
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:33:40
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283620','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:33:41
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:33:41
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283621','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:35:19
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:35:19
+insert into art (title,cat_id,content,pubtime) values ('sa','24','das','1513283719')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:35:19
+insert into art (title,cat_id,content,pubtime,tag) values ('sa','24','das','1513283719','')
+Unknown column 'tag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:35:58
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:35:58
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283758','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:36:01
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:36:02
+insert into art (title,cat_id,content,pubtime,arttag) values ('sa','24','das','1513283761','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:37:26
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:37:32
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:37:32
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','24','a','1513283852','a')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:37:37
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:37:37
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','24','a','1513283857','a')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:24
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:24
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','24','asd','1513283904','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:26
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:26
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','24','asd','1513283906','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:28
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:28
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','24','ewq','1513283908','')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:31
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:31
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','24','ewq','1513283911','ewq')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:50
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:50
+insert into art (title,cat_id,content,pubtime) values ('a','24','ewq','1513283930')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:38:50
+insert into art (title,cat_id,content,pubtime,tag) values ('a','24','ewq','1513283930','ewq')
+Unknown column 'tag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:39:46
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:39:46
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','24','ewq','1513283986','ewq')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:39:48
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:39:48
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','24','ewq','1513283988','ewq')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:39:55
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:39:55
+insert into art (title,cat_id,content,pubtime,arttag) values ('a','3','mdsaklaewq','1513283995','ewq')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:40:16
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:40:39
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:40:45
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:42:44
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:42:47
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:42:47
+insert into art (title,cat_id,content,pubtime,arttag) values ('sad','24','dsa','1513284167','dsa')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:43:13
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:43:13
+insert into art (title,cat_id,content,pubtime) values ('sad','24','dsa','1513284193')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:43:13
+insert into art (title,cat_id,content,pubtime,tag) values ('sad','24','dsa','1513284193','dsa')
+Unknown column 'tag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:43:14
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:43:14
+insert into art (title,cat_id,content,pubtime) values ('sad','24','dsa','1513284194')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:43:14
+insert into art (title,cat_id,content,pubtime,tag) values ('sad','24','dsa','1513284194','dsa')
+Unknown column 'tag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:22
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:22
+insert into art (title,cat_id,content,pubtime,arttag) values ('sad','24','dsa','1513284262','dsa')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:26
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:26
+insert into art (title,cat_id,content,pubtime,arttag) values ('sad','24','dsa','1513284266','dsa')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:42
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:42
+insert into art (title,cat_id,content,pubtime,arttag) values ('sad','24','dsa','1513284282','dsa')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:54
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:54
+insert into art (title,cat_id,content,pubtime) values ('sad','24','dsa','1513284294')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:54
+insert into art (title,cat_id,content,pubtime,tag) values ('sad','24','dsa','1513284294','dsa')
+Unknown column 'tag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:55
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:55
+insert into art (title,cat_id,content,pubtime) values ('sad','24','dsa','1513284295')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:44:55
+insert into art (title,cat_id,content,pubtime,tag) values ('sad','24','dsa','1513284295','dsa')
+Unknown column 'tag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:45:02
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:45:05
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:45:05
+insert into art (title,cat_id,content,pubtime) values ('1','24','2','1513284305')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:45:05
+insert into art (title,cat_id,content,pubtime,tag) values ('1','24','2','1513284305','2')
+Unknown column 'tag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:46:28
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:46:28
+insert into art (title,cat_id,content,pubtime) values ('1','24','2','1513284388')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:46:28
+insert into tag (art_id,tag) values (31,'2') 
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:46:28
+update cat set num=num+1 where cat_id=24
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:46:34
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:10
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:12
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:13
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:14
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:18
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:18
+insert into art (title,cat_id,content,pubtime) values ('DSA','24','SAD','1513284438')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:18
+insert into tag (art_id,tag) values (32,'2') 
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:18
+update cat set num=num+1 where cat_id=24
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:20
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:56
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:47:59
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:01
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:01
+insert into art (title,cat_id,content,pubtime,arttag) values ('DAS','24','DAS','1513284481','DAS')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:06
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:06
+insert into art (title,cat_id,content,pubtime,arttag) values ('DAS1','24','DASQ','1513284486','DAS')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:09
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:09
+insert into art (title,cat_id,content,pubtime,arttag) values ('DAS1','24','DASQDSA','1513284489','DAS')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:13
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:13
+insert into art (title,cat_id,content,pubtime,arttag) values ('DAS1','24','DASQDSA','1513284493','linux')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:31
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:48:31
+insert into art (title,cat_id,content,pubtime,arttag) values ('DAS1','24','DASQDSA','1513284511','linux')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:49:47
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:49:47
+insert into art (title,cat_id,content,pubtime,arttag) values ('DAS1','24','DASQDSA','1513284587','linux,dsja')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:50:59
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:50:59
+insert into art (title,cat_id,content,pubtime,arttag) values ('DAS1','24','DASQDSA','1513284659','linux,dsja')
+Unknown column 'arttag' in 'field list'
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:51:49
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:51:49
+insert into art (title,cat_id,content,pubtime,arttag) values ('DAS1','24','DASQDSA','1513284709','linux,dsja')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:51:49
+insert into tag (art_id,tag) values (33,'linux') ,(33,'dsja') 
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:51:49
+update cat set num=num+1 where cat_id=24
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:51:51
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:52:57
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:52:57
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:54:56
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:54:56
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:54:59
+select * from art where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:54:59
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:54:59
+select * from comment where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:06
+select * from art where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:06
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:06
+select title,content,cat_id,arttag from art where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:15
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:18
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:18
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:18
+select title,content,cat_id,arttag from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:21
+select * from art where art_id=33
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:21
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 20:55:21
+select title,content,cat_id,arttag from art where art_id=33
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:07:59
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:07:59
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:07
+select * from art where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:07
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:07
+select * from comment where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:22
+select * from art where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:22
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:22
+select * from comment where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:22
+insert into comment (nick,email,content,pubtime,art_id) values ('lihuichuan','dsahkj','dsanjkda','1513292902','23')
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:22
+update art set comm=comm+1 where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:22
+select * from art where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:22
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:22
+select * from comment where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:40
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:40
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:50
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:50
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=24
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:52
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:52
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=2
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:54
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:54
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=3
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:56
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:56
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:08:56
+select * from comment where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:10:45
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:10:45
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=2
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:10:47
+select cat_id,catname from  cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:10:47
+select art_id,title,content,pubtime,comm,catname from art inner join cat on art.cat_id=cat.cat_id where 1 and art.cat_id=24
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:10:51
+select * from art where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:10:51
+select title,content,pubtime,catname,comm from art inner join cat on art.cat_id=cat.cat_id where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:10:51
+select * from comment where art_id=23
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:10
+select * from cat
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:15
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:19
+select * from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:19
+delete from art where art_id=21
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:19
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:21
+select * from art where art_id=33
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:21
+delete from art where art_id=33
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:21
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:21
+select * from art where art_id=32
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:21
+delete from art where art_id=32
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:21
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:23
+select * from art where art_id=27
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:23
+delete from art where art_id=27
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:23
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:25
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:26
+select art_id,title,pubtime,comm,catname from art left join cat on art.cat_id=cat.cat_id
+-----------------------------------------
+
+-----------------------------------------
+2017/12/14 23:11:28
+select * from cat
+-----------------------------------------
+
